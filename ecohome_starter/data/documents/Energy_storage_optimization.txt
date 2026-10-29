@@ -1,0 +1,433 @@
+================================================================================
+ENERGY STORAGE OPTIMIZATION
+Sizing, Operating and Maintaining Battery and Thermal Storage
+================================================================================
+Category:  Energy Storage / Energy Efficiency
+Audience:  Homeowners, small businesses, facility managers
+Version:   October 2026
+
+NOTE: Technology, pricing, incentives, codes and utility programs change
+often. Figures here are typical ranges for planning only. Always check
+manufacturer specifications and warranties. Battery installation involves
+high-energy electrical equipment and must be done by qualified, licensed
+professionals following local codes and permits.
+
+
+--------------------------------------------------------------------------------
+1. WHAT ENERGY STORAGE DOES
+--------------------------------------------------------------------------------
+Energy storage saves energy for later use. It can:
+
+  - Increase use of on-site solar by storing midday surplus for the evening
+  - Shift consumption from expensive peak hours to cheaper hours
+  - Reduce demand charges by trimming short power peaks
+  - Provide backup power during outages
+  - Support the grid through demand response programs or virtual power
+    plants, where available
+
+Storage does not create energy. Every conversion loses some, so storage is
+worth it only when it provides value that outweighs those losses and costs:
+bill savings, resilience, or grid benefits.
+
+
+--------------------------------------------------------------------------------
+2. TYPES OF STORAGE
+--------------------------------------------------------------------------------
+2.1 Electrochemical batteries
+  Lithium iron phosphate (LFP)
+    - Long cycle life (often several thousand cycles), good thermal
+      stability, tolerant of regular full charging. Widely used for stationary
+      storage.
+  Lithium nickel manganese cobalt (NMC)
+    - Higher energy density. Often prefers moderate charge limits to
+      maximize life.
+  Lead-acid
+    - Lower upfront cost per unit, but shorter life, lower usable depth of
+      discharge, and more maintenance (for flooded types).
+  Flow batteries
+    - Long duration, scalable, long life; usually for larger commercial or
+      utility projects.
+
+2.2 Thermal storage
+  - Hot water tanks: the most accessible form. A well-controlled electric or
+    heat pump water heater stores energy as heat.
+  - Ice storage or chilled water: used in commercial buildings to make ice or
+    cold water at night or from surplus power and use it for cooling later.
+  - Building thermal mass: concrete, masonry and water absorb and release
+    heat. Pre-cooling or pre-heating uses the building itself as storage.
+  - Phase change materials: store heat in the melting or freezing of materials.
+
+2.3 Electric vehicles
+  - EV batteries are large (often 50 to 100 kWh or more) compared with home
+    batteries (often 10 to 15 kWh per unit). Smart charging can shift load.
+    Vehicle-to-home (V2H) and vehicle-to-grid (V2G) can supply power if the
+    vehicle, charger and utility support it.
+
+2.4 Mechanical and utility-scale
+  - Pumped hydro, compressed air and flywheels are used for grid-scale
+    storage and are not discussed in detail here.
+
+
+--------------------------------------------------------------------------------
+3. KEY TERMS
+--------------------------------------------------------------------------------
+  Energy capacity (kWh)       How much energy can be stored. Nominal vs usable
+                              capacity differ; use usable.
+  Power rating (kW)           How fast the system can charge or discharge.
+                              Continuous and peak (surge) ratings differ.
+  Round-trip efficiency       Energy out divided by energy in. Lithium-ion
+                              systems are commonly in the range of about 85 to
+                              95 percent for the battery system.
+  Depth of discharge (DoD)    Share of capacity used in a cycle.
+  State of charge (SoC)       Current charge level as a percentage.
+  Cycle life                  Number of full charge-discharge cycles before
+                              capacity falls to a stated level.
+  Calendar aging              Capacity loss over time, even without cycling.
+  C-rate                      Charge or discharge rate relative to capacity.
+  Throughput warranty         Total energy (kWh or MWh) the warranty covers
+                              over the battery's life.
+  Self-consumption            Share of solar energy used on site.
+  Self-sufficiency            Share of load met by solar plus storage.
+
+
+--------------------------------------------------------------------------------
+4. FIRST DECIDE THE GOAL
+--------------------------------------------------------------------------------
+Different goals lead to different sizes and settings.
+
+  Goal                      Main design driver              Typical priority
+  ------------------------  ------------------------------  -------------------
+  Backup power              Critical load kWh and kW        Keep a high reserve
+  Solar self-consumption    Evening use and surplus solar   Charge from solar
+  Time-of-use savings       Price spread peak vs off-peak   Schedule by price
+  Demand charge reduction   Peak kW and how short peaks are Limit peak demand
+  Grid services             Program rules and availability  Follow program terms
+
+A system serving several goals ("value stacking") may earn more, but settings
+conflict. Keeping a large backup reserve, for example, reduces the energy
+available for daily savings.
+
+
+--------------------------------------------------------------------------------
+5. SIZING
+--------------------------------------------------------------------------------
+5.1 Sizing for backup
+  1. List critical loads: refrigerator, lights, internet, medical devices,
+     furnace blower, well pump and others.
+  2. Estimate energy per day (kWh) and peak power (kW), including motor
+     starting surge.
+  3. Decide how many hours or days of backup you want.
+  4. Convert to usable capacity, then to nominal capacity.
+
+  Example
+    Critical loads use about 6 kWh per day. You want 2 days of backup without
+    solar recharge.
+    Usable energy needed = 6 x 2 = 12 kWh.
+    If the battery allows about 90 percent usable capacity,
+    Nominal capacity = 12 / 0.9 = about 13.3 kWh.
+    Check that the power rating covers the highest simultaneous load,
+    including surges from motors and compressors.
+
+  Solar recharge during an outage extends runtime. Note that whole-home
+  backup needs much more capacity and power than critical-load backup.
+
+5.2 Sizing for solar self-consumption
+  - Look at hourly use after sunset and overnight, and the daily solar
+    surplus. A battery slightly larger than the typical evening-to-morning
+    use that solar could cover is usually the limit of useful size.
+  - Extra capacity that never fills (or never discharges) adds cost without
+    savings.
+  - Seasonal variation matters: summer surplus may be large, while winter
+    surplus may be too small to fill a large battery.
+
+5.3 Sizing for time-of-use savings
+  - Size to the amount of energy used during peak periods that you can
+    reasonably shift.
+  - Check that the battery can discharge for the whole peak window.
+
+5.4 Sizing for demand charge reduction (commercial)
+  - Use interval data (15-minute) to find peak events.
+  - Measure how many kW you need to shave and for how long. A short, sharp
+    peak is much easier and cheaper to shave than a long plateau.
+  - Check whether demand charges use a monthly peak or a ratchet that holds
+    the highest peak for many months.
+
+
+--------------------------------------------------------------------------------
+6. OPTIMIZING OPERATION
+--------------------------------------------------------------------------------
+6.1 Time-of-use arbitrage
+  The value of shifting energy is the price spread, after losses.
+
+    Net gain per kWh charged = (Peak price x Round-trip efficiency) - Off-peak
+                               price
+
+  Example
+    Off-peak price: $0.12 per kWh
+    Peak price:     $0.36 per kWh
+    Round-trip efficiency: 90 percent
+
+    Net gain = (0.36 x 0.90) - 0.12 = 0.324 - 0.12 = $0.204 per kWh charged.
+
+  If the spread is small, losses and wear can remove the benefit. Include
+  battery degradation cost in your analysis.
+
+6.2 Solar-first charging
+  - Charge the battery from solar surplus first. Charging from the grid at
+    peak prices is rarely beneficial.
+  - Avoid exporting at low rates when you can store the energy and use it
+    when it is worth more.
+
+6.3 Reserve settings
+  - Set a backup reserve (minimum SoC) based on your outage risk. A high
+    reserve protects resilience but reduces daily savings.
+  - Use storm or outage alerts: many systems can automatically raise the
+    reserve and charge from the grid or solar before predicted severe
+    weather.
+  - Review the reserve seasonally. Lower it in mild seasons, raise it in
+    storm or wildfire season.
+
+6.4 Match charge and discharge to prices and loads
+  - Discharge during the most expensive hours, or when household loads are
+    highest, not at the first sign of evening.
+  - Avoid discharging into low-value export hours.
+  - Keep enough energy for the highest-price window, especially on cloudy
+    days when solar may not refill the battery.
+
+6.5 Load management with storage
+  - Pair the battery with smart controls: delay EV charging, water heating
+    and dryers so the battery does not cover large loads unnecessarily.
+  - Avoid running large loads at the same time during an outage.
+
+6.6 Demand response and virtual power plants
+  - Some utilities pay customers for letting aggregated batteries support the
+    grid during peak events.
+  - Review limits on how often events occur, minimum reserve guarantees,
+    and compensation terms before enrolling.
+
+6.7 Review performance regularly
+  - Compare actual savings with the forecast each quarter.
+  - Adjust settings after rate changes, new loads (EV, heat pump) or
+    changes in solar production.
+
+
+--------------------------------------------------------------------------------
+7. BATTERY HEALTH AND LONGEVITY
+--------------------------------------------------------------------------------
+  Temperature
+    - Most lithium-ion batteries perform and age best at moderate
+      temperatures, often about 59 to 77 F (15 to 25 C). High heat speeds
+      aging, and cold reduces available power and capacity and can limit
+      charging.
+    - Install in a location that is sheltered and within the manufacturer's
+      temperature range, in line with local codes.
+
+  State of charge
+    - NMC chemistries last longer if not held at 100 percent for long periods
+      and not often fully emptied. LFP is more tolerant. Follow the
+      manufacturer's guidance.
+    - Avoid leaving a battery fully discharged for long periods.
+
+  Cycling
+    - Deep, frequent cycling uses up cycle life. Daily cycling is normal for
+      solar systems, so choose a chemistry and warranty that suit it.
+
+  Warranty
+    - Check warranty length (often 10 years), minimum retained capacity at the
+      end (often 60 to 70 percent), throughput limits, and operating
+      conditions that void coverage.
+
+  Software and monitoring
+    - Keep firmware updated and monitor for faults, capacity trends and
+      alerts. Capacity fade should be gradual. Rapid loss deserves a service
+      check.
+
+  Maintenance
+    - Keep the area clear of storage, vegetation and debris. Follow the
+      manufacturer's inspection schedule.
+
+
+--------------------------------------------------------------------------------
+8. THERMAL STORAGE STRATEGIES
+--------------------------------------------------------------------------------
+8.1 Water heaters as thermal batteries
+  - Heat water when electricity is cheap or when solar surplus is available.
+    Heat pump water heaters make this efficient.
+  - Raising the tank temperature above normal stores more energy but
+    increases scald risk and standby loss, and it can reduce the efficiency
+    of a heat pump water heater. If you store hotter water, use a
+    thermostatic mixing valve to deliver safe temperatures at the tap.
+  - Do not allow tank temperatures to stay low enough for bacterial growth
+    such as Legionella. Follow plumbing code and manufacturer guidance.
+  - Use controllers or built-in grid-connected modes for scheduling.
+
+8.2 Building thermal mass
+  - Pre-cool the building before peak hours, then let temperatures drift up
+    slowly. Pre-heat in winter in the same way, within comfort limits.
+  - Works best in buildings with good insulation and thermal mass, and with
+    smart thermostats that coordinate with price signals.
+
+8.3 Ice and chilled-water storage (commercial)
+  - Chillers make ice or cold water at night when electricity is cheaper and
+    air is cooler, and the building uses it during the day.
+  - Reduces peak demand and may improve chiller efficiency at night.
+
+
+--------------------------------------------------------------------------------
+9. INTEGRATION WITH SOLAR AND EVs
+--------------------------------------------------------------------------------
+  AC-coupled systems
+    - The battery has its own inverter and connects on the AC side. Easier
+      to add to an existing solar system. Slightly lower round-trip
+      efficiency because of extra conversions.
+
+  DC-coupled systems
+    - Solar and battery share a hybrid inverter. Often more efficient when
+      charging from solar and can capture solar that would otherwise be
+      clipped by the inverter.
+
+  EV charging
+    - Schedule charging for solar surplus or off-peak hours. Avoid charging
+      during peak hours.
+    - If the EV has V2H capability, check the warranty impact and the
+      charger and transfer switch requirements.
+
+  Smart panels and load controllers
+    - Allow selective circuits to be powered during an outage and
+      load-shed non-critical circuits automatically, extending backup time.
+
+
+--------------------------------------------------------------------------------
+10. SAFETY, CODES AND INSTALLATION
+--------------------------------------------------------------------------------
+  - Use licensed installers and follow local permitting and inspection
+    requirements.
+  - Look for products tested and listed to recognized safety standards (for
+    example, UL 9540 for energy storage systems, and UL 9540A test data for
+    fire propagation).
+  - Follow code requirements for location, spacing, ventilation, fire
+    protection, and distance from living spaces and exits. Rules differ by
+    jurisdiction and are updated frequently.
+  - Install smoke and heat detection where required.
+  - Do not stack items against a battery, block ventilation or modify
+    enclosures.
+  - Know how to shut down the system and who to call in an emergency.
+  - Tell your insurer, and check whether your policy covers the equipment.
+  - If a battery shows swelling, odor, smoke or unusual noise, move people
+    away and contact emergency services.
+
+
+--------------------------------------------------------------------------------
+11. ECONOMICS
+--------------------------------------------------------------------------------
+Compare total value with total cost.
+
+  Costs
+    - Equipment, installation, permits, electrical upgrades
+    - Maintenance, software fees, and eventual replacement
+    - Financing costs
+
+  Benefits
+    - Bill savings from self-consumption, TOU shifting, and demand reduction
+    - Payments from grid programs
+    - Resilience value (avoided losses during outages, avoided generator
+      costs, comfort and safety). This is real but hard to price. Decide how
+      much it is worth to you before comparing payback.
+
+  Tips
+    - Run the numbers with your actual rate plan and hourly load data.
+    - Check whether net metering or net billing changes make storage more
+      valuable, such as low export rates.
+    - Check incentives, but do not rely on programs that may change or end.
+    - Compare cost per usable kWh and per kW, plus warranty terms.
+    - Account for degradation: capacity declines over time.
+    - Consider whether efficiency and demand reduction measures give a better
+      return first.
+
+
+--------------------------------------------------------------------------------
+12. COMMERCIAL AND INSTITUTIONAL USE
+--------------------------------------------------------------------------------
+  - Demand charge management is often the top value driver. Control logic
+    must predict and respond to peaks quickly.
+  - Combine storage with load control (HVAC pre-cooling, process scheduling)
+    to reduce battery size.
+  - Review rate structures for demand ratchets, standby charges, and rules
+    on storage charging from the grid.
+  - Consider microgrid designs for critical facilities such as clinics,
+    shelters, data rooms and cold storage.
+  - Plan for operations: staff training, remote monitoring, cybersecurity and
+    maintenance contracts.
+
+
+--------------------------------------------------------------------------------
+13. END OF LIFE
+--------------------------------------------------------------------------------
+  - Ask the manufacturer or installer about take-back and recycling.
+  - Do not dispose of batteries in household trash.
+  - Capacity falling to roughly 60 to 70 percent of original capacity is
+    commonly treated as end of warranty life, but a battery can often still
+    serve smaller roles.
+  - Plan the replacement cost and downtime in your long-term budget.
+
+
+--------------------------------------------------------------------------------
+14. KEY PERFORMANCE INDICATORS
+--------------------------------------------------------------------------------
+  Metric                          How to use it
+  ------------------------------  ---------------------------------------------
+  Measured round-trip efficiency  Compare with the datasheet; investigate drops
+  Equivalent full cycles / month  Track wear relative to warranty throughput
+  Capacity retention              Compare usable kWh over time
+  Self-consumption rate           Share of solar used on site
+  Self-sufficiency                Share of load met by solar and storage
+  Bill savings vs baseline        Verify the investment case
+  Peak demand reduction (kW)      For commercial demand charge strategies
+  Backup reserve events           Track outages and how long backup lasted
+
+
+--------------------------------------------------------------------------------
+15. OPTIMIZATION CHECKLIST
+--------------------------------------------------------------------------------
+Planning
+  [ ] Goal defined (backup, savings, solar, grid services)
+  [ ] Critical loads listed with kWh and kW
+  [ ] Rate plan and hourly use analyzed
+  [ ] Quotes compared on usable kWh, kW, efficiency, warranty and installer
+  [ ] Permits, insurance and utility requirements checked
+
+Operation
+  [ ] Charge from solar first
+  [ ] Reserve set to match outage risk
+  [ ] Discharge targeted at the highest-value hours
+  [ ] Flexible loads (EV, water heater, laundry) coordinated with solar and
+      the battery
+  [ ] Settings reviewed seasonally and after rate changes
+
+Care
+  [ ] Operating temperature within range
+  [ ] Firmware updated and alerts monitored
+  [ ] Performance compared with expectations each quarter
+  [ ] Emergency shutdown steps known
+
+
+--------------------------------------------------------------------------------
+16. COMMON MISTAKES
+--------------------------------------------------------------------------------
+  - Buying a large battery without a defined goal
+  - Comparing nominal instead of usable capacity
+  - Ignoring power (kW) limits, so the battery cannot start a well pump or
+    air conditioner
+  - Setting a high reserve all year and losing savings
+  - Charging from the grid at peak prices
+  - Installing in a space that gets too hot or too cold
+  - Assuming whole-home backup from a small system
+  - Overlooking warranty conditions and throughput limits
+  - Not checking utility program rules before enrolling
+  - Skipping efficiency upgrades that would shrink the system you need
+  - Relying on payback only, without valuing resilience or considering
+    degradation
+
+================================================================================
+END OF DOCUMENT
+================================================================================
