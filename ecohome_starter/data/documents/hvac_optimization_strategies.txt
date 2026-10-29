@@ -1,0 +1,382 @@
+================================================================================
+HVAC OPTIMIZATION STRATEGIES
+A Practical Guide to Reducing Heating and Cooling Energy Use
+================================================================================
+Category:  Energy Efficiency
+Audience:  Homeowners, renters (where applicable), small-building managers
+Version:   October 2026
+
+NOTE: Savings figures in this document are typical ranges, not guarantees.
+Actual results depend on climate, building condition, equipment, occupant
+behavior and local energy prices. Work involving refrigerants, gas appliances
+or electrical wiring should be done by licensed professionals.
+
+
+--------------------------------------------------------------------------------
+1. WHY HVAC MATTERS
+--------------------------------------------------------------------------------
+Heating, ventilation and air conditioning (HVAC) is usually the largest energy
+end use in a building. In many homes it accounts for roughly 40 to 50 percent
+of energy use, and in commercial buildings it often represents 30 to 50
+percent. Small improvements in HVAC performance therefore have a larger effect
+on the energy bill than almost any other upgrade.
+
+The best results come from following this order:
+
+  1. Reduce the load      (air sealing, insulation, windows, shading)
+  2. Maintain equipment   (filters, coils, refrigerant charge, ducts)
+  3. Control it smartly   (thermostat strategy, zoning, scheduling)
+  4. Upgrade equipment    (right-sized, high-efficiency, often heat pumps)
+
+Upgrading equipment before reducing the load often leads to oversized, more
+expensive systems that run less efficiently.
+
+
+--------------------------------------------------------------------------------
+2. REDUCE THE LOAD FIRST
+--------------------------------------------------------------------------------
+2.1 Air sealing
+  - Leaks around windows, doors, attic hatches, recessed lights, plumbing
+    penetrations and the rim joist can account for a large share of heating
+    and cooling loss.
+  - Use caulk for gaps under 1/4 inch, expanding foam for larger gaps, and
+    weatherstripping on moving parts such as doors and operable windows.
+  - A blower-door test (offered by energy auditors) shows where air leaks.
+
+2.2 Insulation
+  - Attics are usually the most cost-effective place to add insulation.
+  - Check recommended R-values for your climate zone and compare them with
+    what you have. Compressed or uneven insulation performs below its rating.
+  - Insulate and air-seal together. Insulation slows heat flow but does not
+    stop air movement.
+
+2.3 Windows and shading
+  - Low-emissivity (low-e) coatings reduce heat transfer.
+  - In cooling climates, exterior shading (awnings, trees, solar screens)
+    blocks heat better than interior blinds because heat is stopped before it
+    enters the home.
+  - In heating climates, keep south-facing windows unobstructed in winter to
+    gain free solar heat.
+  - Insulated cellular shades and heavy curtains reduce winter heat loss at
+    night.
+
+
+--------------------------------------------------------------------------------
+3. RIGHT-SIZING EQUIPMENT
+--------------------------------------------------------------------------------
+Oversized equipment is one of the most common HVAC problems. An oversized air
+conditioner cools the space quickly, then shuts off before it has removed
+enough moisture. This is called short cycling. It causes uneven temperatures,
+humidity problems, higher wear and lower efficiency.
+
+Best practice:
+  - Ask contractors to perform a load calculation (Manual J in North America)
+    instead of sizing by square footage or by copying the old system.
+  - Ask for duct design calculations (Manual D) and equipment selection
+    (Manual S) for new or replaced systems.
+  - After air sealing and insulation improvements, the calculated load is
+    often lower than expected, so calculate after those upgrades when
+    possible.
+  - Variable-speed and inverter-driven equipment can modulate output and
+    tolerates sizing differences better than single-speed equipment.
+
+
+--------------------------------------------------------------------------------
+4. EQUIPMENT TYPES AND EFFICIENCY RATINGS
+--------------------------------------------------------------------------------
+4.1 Common efficiency metrics (higher is better, except where noted)
+
+  SEER2   Seasonal cooling efficiency of air conditioners and heat pumps.
+  EER2    Cooling efficiency at a fixed hot-weather test condition.
+  HSPF2   Seasonal heating efficiency of air-source heat pumps.
+  COP     Units of heat delivered per unit of electricity used.
+  AFUE    Fuel efficiency of furnaces and boilers, as a percentage.
+
+Compare products using the same metric. Older ratings (SEER, HSPF) and newer
+ones (SEER2, HSPF2) use different test methods and are not directly equal.
+
+4.2 Heat pumps
+  - Heat pumps move heat instead of creating it. They typically deliver two to
+    four units of heating for each unit of electricity, so they can use far
+    less energy than electric resistance heating.
+  - Cold-climate models maintain capacity at low outdoor temperatures. Check
+    the manufacturer's capacity data at your design temperature.
+  - Ductless mini-splits suit homes without ducts, additions and
+    zone-by-zone upgrades.
+  - Dual-fuel systems pair a heat pump with a gas furnace and switch based on
+    outdoor temperature or energy price.
+
+4.3 Furnaces and boilers
+  - Condensing furnaces and boilers (typically 90 percent AFUE or higher)
+    extract more heat from exhaust gases than non-condensing models.
+  - Modulating burners and variable-speed blowers improve comfort and reduce
+    energy use.
+
+4.4 Central air conditioners
+  - Variable-speed compressors and blowers run longer at lower output, which
+    improves humidity control and efficiency.
+  - A properly matched indoor coil and outdoor unit is required to achieve
+    the rated efficiency.
+
+4.5 Geothermal (ground-source) heat pumps
+  - Exchange heat with the ground, which stays at a stable temperature.
+  - Higher installation cost, but high efficiency and long equipment life.
+
+4.6 Replacement timing
+  - Consider replacement when equipment is near the end of its typical life
+    (often 12 to 20 years for central air conditioners and heat pumps, longer
+    for some furnaces), repairs are frequent, or the refrigerant is being
+    phased out.
+  - Planned replacement allows time to compare quotes and incentives.
+    Emergency replacement usually limits choices.
+
+
+--------------------------------------------------------------------------------
+5. DUCTWORK
+--------------------------------------------------------------------------------
+Ducts in attics, crawl spaces and garages can lose a substantial share of
+conditioned air through leaks and conduction. Commonly cited estimates place
+typical losses at 20 to 30 percent of airflow in leaky systems.
+
+Actions:
+  - Seal duct joints and seams with mastic sealant or approved foil tape.
+    Standard cloth "duct tape" fails over time.
+  - Insulate ducts that pass through unconditioned spaces.
+  - Seal the boot connections where ducts meet floors, walls and ceilings.
+  - Make sure each room has an adequate return air path. Closed doors can
+    starve a room of return air; use transfer grilles or jump ducts.
+  - Avoid closing too many supply registers. It raises duct pressure, increases
+    leakage and can reduce system efficiency.
+  - Request a duct leakage test when replacing equipment or after sealing work.
+  - If ducts are in poor condition or poorly routed, consider moving them
+    inside the conditioned envelope or switching to ductless systems.
+
+
+--------------------------------------------------------------------------------
+6. MAINTENANCE SCHEDULE
+--------------------------------------------------------------------------------
+Regular maintenance protects efficiency, comfort and equipment life.
+
+  Monthly (during heavy use)
+    - Check the air filter; replace or clean when dirty.
+    - Make sure supply and return vents are not blocked by furniture.
+
+  Quarterly
+    - Check the condensate drain for clogs.
+    - Keep the outdoor unit clear of leaves, grass and debris, with about
+      two feet of clearance on all sides.
+
+  Annually (before each cooling or heating season)
+    - Have a technician check refrigerant charge, airflow, electrical
+      connections, blower and burner or heat strip operation.
+    - Clean indoor and outdoor coils.
+    - Test safety controls and, for combustion equipment, check venting and
+      carbon monoxide safety.
+
+Filter guidance:
+  - A clogged filter restricts airflow and can raise energy use noticeably;
+    replacing a dirty filter is often cited as saving 5 to 15 percent of the
+    system's energy use.
+  - Filters are rated by MERV. MERV 8 to 13 suits most residential systems.
+    Very high MERV filters can restrict airflow in systems not designed for
+    them, so check the equipment manufacturer's guidance.
+
+Refrigerant:
+  - Low or high refrigerant charge reduces efficiency and shortens
+    compressor life. Only licensed technicians should check or adjust it.
+  - A system that repeatedly needs refrigerant has a leak that must be found
+    and repaired.
+
+
+--------------------------------------------------------------------------------
+7. THERMOSTAT AND SCHEDULING STRATEGIES
+--------------------------------------------------------------------------------
+7.1 Recommended starting setpoints
+  - Heating: about 68 F (20 C) when home and awake.
+  - Cooling: about 78 F (26 C) when home.
+  - Adjust for health, age, and personal comfort. Efficiency is a trade-off,
+    not a rule.
+
+7.2 Setbacks
+  - Lowering the heating setpoint by 7 to 10 F (4 to 6 C) for about eight
+    hours a day, such as while sleeping or away, can reduce annual heating
+    and cooling costs by up to around 10 percent.
+  - Raise the cooling setpoint when the home is empty, but avoid extreme
+    settings in very humid climates where mold and moisture are a concern.
+
+7.3 Heat pump considerations
+  - Large setbacks can cause a heat pump to call for electric resistance
+    backup heat when it recovers, wiping out the savings.
+  - Use a thermostat that supports heat pumps, limit recovery to gradual
+    steps (for example 2 F at a time), and set the lockout temperature for
+    backup heat as low as comfort allows.
+
+7.4 Control tips
+  - Use fan setting "auto" instead of "on" so the blower does not run
+    continuously, except where continuous low-speed circulation is
+    intentional and uses an efficient (ECM or variable-speed) motor.
+  - Avoid placing the thermostat in direct sun, near vents or near heat
+    sources.
+  - Ceiling fans cool people, not rooms. Turn them off when no one is present.
+    In summer, run them to push air down; in winter, run on low speed in the
+    opposite direction to circulate warm air.
+
+
+--------------------------------------------------------------------------------
+8. ZONING AND VENTILATION
+--------------------------------------------------------------------------------
+8.1 Zoning
+  - Dividing a building into zones lets you condition only occupied areas.
+  - Options include motorized duct dampers, multiple thermostats with
+    separate systems, and multi-zone ductless units.
+  - Zoning works best when the equipment can modulate. Single-speed systems
+    with poorly designed dampers can create excess pressure and noise.
+
+8.2 Ventilation
+  - Tight buildings need controlled ventilation for indoor air quality.
+  - Heat recovery ventilators (HRV) and energy recovery ventilators (ERV)
+    bring in fresh air while recovering much of the heat (and, for ERVs,
+    moisture) from outgoing air.
+  - Use bathroom and kitchen exhaust fans as needed, and run them only as
+    long as necessary. Make sure they vent outdoors, not into the attic.
+
+8.3 Humidity
+  - Aim for indoor relative humidity of roughly 30 to 50 percent.
+  - In humid climates, a dehumidifier or a variable-speed air conditioner
+    with humidity control allows a higher cooling setpoint while staying
+    comfortable.
+  - In dry winter climates, over-humidifying causes window condensation and
+    can increase heat loss and moisture damage.
+
+
+--------------------------------------------------------------------------------
+9. COMMERCIAL AND LARGE-BUILDING STRATEGIES
+--------------------------------------------------------------------------------
+9.1 Controls and scheduling
+  - Use a building automation system (BAS) to schedule start and stop times
+    by occupancy, not by habit.
+  - Use optimal-start strategies so spaces reach setpoint just as occupants
+    arrive.
+  - Review schedules at least quarterly. Equipment running on weekends or
+    after hours is one of the most common wastes.
+
+9.2 Reset strategies
+  - Supply air temperature reset: raise cooling supply temperature when load
+    is light.
+  - Chilled water and hot water temperature reset based on load or outdoor
+    temperature.
+  - Static pressure reset: lower fan duct pressure until the most demanding
+    zone is just satisfied.
+
+9.3 Variable-speed drives
+  - Fan and pump power falls roughly with the cube of speed. Slowing a fan to
+    80 percent of full speed reduces its power draw to about half.
+  - Variable-frequency drives (VFDs) on fans and pumps are among the most
+    cost-effective commercial upgrades.
+
+9.4 Economizers and demand-controlled ventilation
+  - Air-side economizers use cool outdoor air to cool the building when
+    conditions allow. Check that dampers, sensors and actuators work, because
+    stuck dampers are common.
+  - Demand-controlled ventilation uses CO2 sensors to adjust outdoor air to
+    actual occupancy.
+
+9.5 Retro-commissioning
+  - Systematic testing and tuning of existing systems often finds savings in
+    the range of 5 to 15 percent of building energy use, mostly through
+    controls corrections with low or no capital cost.
+
+
+--------------------------------------------------------------------------------
+10. TROUBLESHOOTING GUIDE
+--------------------------------------------------------------------------------
+  Symptom                         Common causes to check
+  ------------------------------  ---------------------------------------------
+  Rising bills, same usage        Dirty filter or coils, low refrigerant,
+                                  duct leaks, failing components
+  Rooms too hot or cold           Unbalanced airflow, blocked returns, leaky
+                                  or undersized ducts, poor insulation
+  System short cycles             Oversizing, dirty filter, thermostat
+                                  placement, refrigerant problems
+  High indoor humidity            Oversized AC, fan left on, leaky ducts,
+                                  low airflow, ventilation issues
+  Frost or ice on outdoor coil    Normal brief defrost for heat pumps; if
+                                  excessive, airflow or defrost control issues
+  Heat pump uses backup heat      Thermostat settings, aggressive setbacks,
+  too often                       outdoor sensor problem, undersized system
+  Unusual noise or smell          Loose parts, failing motor, dirty burners,
+                                  moisture; shut off and call a professional
+
+If you smell gas or suspect carbon monoxide, leave the building and contact
+emergency services.
+
+
+--------------------------------------------------------------------------------
+11. PRIORITIZED ACTION PLAN
+--------------------------------------------------------------------------------
+Low cost, do now
+  [ ] Replace or clean filters on schedule
+  [ ] Clear vents, returns and the outdoor unit
+  [ ] Set a schedule or setbacks on the thermostat
+  [ ] Weatherstrip doors and caulk visible gaps
+  [ ] Close drapes on sunny summer windows; open them on sunny winter days
+
+Moderate cost
+  [ ] Book annual professional tune-up
+  [ ] Seal and insulate accessible ducts
+  [ ] Add attic insulation and seal attic air leaks
+  [ ] Install a smart or programmable thermostat compatible with your system
+  [ ] Install exterior shading on the sunniest windows
+
+Larger investments
+  [ ] Commission a professional energy audit with blower-door test
+  [ ] Replace aging equipment with right-sized high-efficiency units or heat
+      pumps based on a load calculation
+  [ ] Add zoning or ductless units for problem areas
+  [ ] Add ventilation with heat or energy recovery to tight homes
+
+
+--------------------------------------------------------------------------------
+12. MEASURING RESULTS
+--------------------------------------------------------------------------------
+  - Compare monthly energy use against heating and cooling degree days, not
+    just against last year's bill. Weather is the biggest swing factor.
+  - Track kWh per square foot per year (or energy use intensity in
+    commercial buildings) and compare with similar buildings.
+  - Record before and after readings, such as run time, temperatures and
+    utility meter readings, when making a change.
+  - Use utility data portals, smart meter data or a whole-home monitor to
+    see daily and hourly patterns.
+
+
+--------------------------------------------------------------------------------
+13. COMMON MISTAKES TO AVOID
+--------------------------------------------------------------------------------
+  - Replacing equipment with the same size without a load calculation
+  - Upgrading equipment while leaving leaky ducts and attics unaddressed
+  - Setting the thermostat far below or above the target to "speed up"
+    heating or cooling (it does not work faster and often overshoots)
+  - Closing vents in unused rooms without checking system pressure
+  - Skipping filter changes during peak season
+  - Buying the highest-MERV filter without checking system compatibility
+  - Choosing the cheapest bid without comparing the scope of work, warranty
+    and commissioning steps
+
+
+--------------------------------------------------------------------------------
+14. QUICK REFERENCE
+--------------------------------------------------------------------------------
+  Heating setpoint (home)         about 68 F (20 C)
+  Cooling setpoint (home)         about 78 F (26 C)
+  Setback depth                   7 to 10 F (4 to 6 C), about 8 hours
+  Indoor humidity target          30 to 50 percent
+  Typical filter                  MERV 8 to 13, check monthly
+  Outdoor unit clearance          about 2 feet on all sides
+  Heat pump efficiency            roughly 2 to 4 units of heat per unit of
+                                  electricity
+  Typical duct losses (leaky)     20 to 30 percent of airflow
+  Commercial retro-commissioning  often 5 to 15 percent savings
+
+================================================================================
+END OF DOCUMENT
+================================================================================
