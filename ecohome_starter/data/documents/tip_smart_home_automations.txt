@@ -1,0 +1,321 @@
+================================================================================
+SMART HOME AUTOMATION TIPS
+Using Sensors, Schedules and Controls to Cut Energy Waste
+================================================================================
+Category:  Energy Efficiency / Home Automation
+Audience:  Homeowners and renters
+Version:   October 2026
+
+NOTE: Savings figures are typical ranges and vary by household. Smart devices
+use some energy themselves, so choose devices that replace real waste. Work on
+household wiring should be done by a qualified electrician.
+
+
+--------------------------------------------------------------------------------
+1. GUIDING PRINCIPLES
+--------------------------------------------------------------------------------
+  1. Measure first. Know which loads use the most energy before buying
+     anything.
+  2. Automate the big loads: heating and cooling, water heating, EV charging,
+     pool pumps and large appliances.
+  3. Remove waste that no one notices: standby power, lights left on, heating
+     empty rooms.
+  4. Keep comfort and safety first. An automation that annoys the household
+     gets disabled and saves nothing.
+  5. Prefer simple, reliable rules over complex ones. Every extra rule is
+     something that can break or conflict.
+  6. Fail safe. If the internet, hub or device goes offline, the home should
+     fall back to a comfortable, safe state.
+
+
+--------------------------------------------------------------------------------
+2. SMART THERMOSTATS AND CLIMATE CONTROL
+--------------------------------------------------------------------------------
+Heating and cooling is the largest opportunity (see the HVAC guide).
+
+Features that save energy
+  - Scheduling: lower heating and raise cooling setpoints when the home is
+    asleep or empty.
+  - Geofencing: use phone location to detect when everyone has left and when
+    someone is returning.
+  - Occupancy sensing: detects presence in the home.
+  - Remote room sensors: average temperatures across rooms or prioritize the
+    rooms in use.
+  - Learning modes: build a schedule from your manual adjustments. Review the
+    learned schedule, because it can lock in wasteful habits.
+  - Energy reports: show run time and highlight unusual behavior.
+
+Tips
+  - Check compatibility before buying: wire types (C-wire availability),
+    heat pump support, multi-stage and variable-speed equipment, and
+    radiant or line-voltage systems.
+  - For heat pumps, use settings that avoid triggering electric backup heat
+    during recovery from setbacks.
+  - Use vacation mode for extended absences, with a protective minimum
+    temperature to avoid frozen pipes or excess humidity.
+  - Link window or door contact sensors so heating or cooling pauses when a
+    window is open.
+  - Set humidity limits as well as temperature limits in humid climates.
+  - Typical savings from thermostat scheduling are on the order of 8 to 10
+    percent of heating and cooling energy when the home is regularly
+    unoccupied or when setbacks are used consistently. A home that already
+    uses setbacks will save less.
+
+
+--------------------------------------------------------------------------------
+3. LIGHTING
+--------------------------------------------------------------------------------
+Step 1: Switch to LED. LED bulbs use at least 75 percent less energy than
+incandescent bulbs and last many times longer. This is usually the cheapest
+upgrade.
+
+Step 2: Control when lights are on.
+  - Vacancy sensors turn lights off when a room is empty (best for closets,
+    bathrooms, garages, laundry rooms and offices).
+  - Occupancy sensors turn lights on and off automatically. Use manual-on
+    (vacancy) mode where automatic-on is not needed.
+  - Timers and sunrise/sunset schedules for exterior lighting.
+  - Daylight sensors dim or turn off lights when natural light is available.
+  - Dimming and scenes reduce power use and improve comfort.
+
+Tips
+  - Use "all off" scenes at bedtime and when leaving.
+  - Choose dimmers that are compatible with LED bulbs to avoid flicker.
+  - Keep smart bulbs powered at the fixture. A smart bulb behind a wall switch
+    that is turned off cannot be automated; consider smart switches instead.
+  - Smart bulbs draw a small amount of power while idle. Use smart switches
+    for fixtures with many bulbs.
+
+
+--------------------------------------------------------------------------------
+4. STANDBY POWER AND SMART PLUGS
+--------------------------------------------------------------------------------
+Many devices draw power even when "off." Standby loads are commonly estimated
+at roughly 5 to 10 percent of household electricity use, depending on the
+number of electronics.
+
+Good candidates for smart plugs or smart power strips
+  - Entertainment centers (TV, game console, soundbar, streaming box)
+  - Home office equipment (monitors, printers, chargers, speakers)
+  - Seldom-used appliances (secondary refrigerators or freezers are a
+    different case; see below)
+  - Chargers and power adapters
+
+Devices to leave powered or treat carefully
+  - Refrigerators and freezers (unless intentionally managing a spare unit)
+  - Modems, routers and hubs that run the automation system
+  - Medical devices and security systems
+  - Devices that lose settings or take a long time to restart
+  - Anything with a safety function
+
+Tips
+  - Use plugs with energy monitoring to find the real standby draw before
+    deciding what to cut.
+  - "Master and controlled" power strips switch peripherals off when the main
+    device (like a TV or computer) is off.
+  - Do not plug heating appliances such as space heaters into ordinary smart
+    plugs unless the plug is rated for that load.
+  - Check the plug's amperage rating against the device.
+
+
+--------------------------------------------------------------------------------
+5. WATER HEATING
+--------------------------------------------------------------------------------
+Water heating is often one of the largest energy uses after space
+conditioning.
+
+  - Set the heater thermostat to about 120 F (49 C) unless a specific need
+    requires higher.
+  - Use schedules or smart controllers on electric tank heaters so they heat
+    water at low-cost times and reduce standby loss during long absences.
+  - Heat pump water heaters use much less electricity than standard electric
+    resistance heaters. Many include scheduling and demand response modes.
+  - Recirculation pumps should run on a timer, motion sensor or demand button,
+    not continuously.
+  - Install leak sensors near water heaters, washing machines, sinks and
+    under dishwashers. Consider an automatic shutoff valve.
+  - Insulate hot water pipes and tank where practical.
+
+
+--------------------------------------------------------------------------------
+6. APPLIANCES, EV CHARGING AND OTHER LARGE LOADS
+--------------------------------------------------------------------------------
+  - Use delayed-start features on dishwashers, washers and dryers to run
+    during off-peak periods on time-of-use rates.
+  - Run dryers when not on the critical peak, and clean lint filters and
+    vents regularly.
+  - Schedule EV charging for off-peak hours or for midday if you have solar.
+    Many chargers and vehicles have built-in scheduling.
+  - Run pool pumps for the minimum hours needed for filtration, during
+    off-peak hours. Variable-speed pumps save substantially compared with
+    single-speed pumps.
+  - Use smart plugs or controllers for dehumidifiers, sump pumps (with
+    care), and garage or workshop equipment.
+  - Check refrigerator door alarms and temperature alerts to prevent waste
+    and spoiled food.
+
+
+--------------------------------------------------------------------------------
+7. ENERGY MONITORING
+--------------------------------------------------------------------------------
+Monitoring tells you what to automate and proves whether it worked.
+
+  Level 1  Utility portal / smart meter data: daily or hourly usage.
+  Level 2  Whole-home energy monitor: clamps on the main service for
+           real-time usage.
+  Level 3  Circuit-level monitor or smart panel: shows usage by circuit
+           (HVAC, water heater, EV charger, dryer).
+  Level 4  Plug-level monitoring: individual device usage.
+
+Tips
+  - Record a baseline for at least two weeks before making changes.
+  - Look for the overnight base load (usage while everyone is asleep). A high
+    base load points to standby loads or equipment running when it should not.
+  - Set alerts for unusual spikes, for example a dryer running for hours or an
+    EV charging at peak.
+  - Review monthly and compare to weather, not just to last month.
+
+
+--------------------------------------------------------------------------------
+8. TIME-OF-USE RATES AND DEMAND RESPONSE
+--------------------------------------------------------------------------------
+  - Time-of-use (TOU) rates charge more at peak times. Shift flexible loads
+    (EV charging, water heating, laundry, dishwasher, pool pump) to the
+    cheapest periods.
+  - Pre-cooling: cool the home slightly below normal before the peak window,
+    then let it drift up during the peak.
+  - Utility demand response programs reward households that allow short
+    adjustments to thermostats, water heaters or EV chargers during grid
+    stress. Check participation rules, overrides and what the utility can
+    control.
+  - Keep manual override options. Comfort and safety must come first.
+
+
+--------------------------------------------------------------------------------
+9. WINDOW COVERINGS AND SHADING
+--------------------------------------------------------------------------------
+  - Motorized shades can close automatically when direct sun hits a window in
+    cooling season and open in winter to capture solar heat.
+  - Use sun-position or temperature-based triggers instead of only a clock.
+  - In winter, close insulating shades at sunset to reduce heat loss.
+  - Check that the automation does not block daylight when you want to avoid
+    turning on lights.
+
+
+--------------------------------------------------------------------------------
+10. EXAMPLE AUTOMATION RULES
+--------------------------------------------------------------------------------
+  1. When the last person leaves (geofence), set the thermostat to away mode
+     and turn off all lights and entertainment plugs.
+  2. When the first person arrives home, start recovery 20 to 30 minutes
+     before arrival, based on your system's recovery time.
+  3. At bedtime, turn off common-area lights and entertainment plugs and set
+     the nighttime thermostat schedule.
+  4. When a window or door has been open for 5 minutes, pause heating and
+     cooling and send a notification.
+  5. In the closet, bathroom and laundry room, turn lights off 5 minutes after
+     motion stops.
+  6. Delay dishwasher and washer start until off-peak hours.
+  7. Schedule EV charging between the cheapest hours.
+  8. When midday solar production exceeds a threshold, start flexible loads
+     such as the water heater, pool pump or EV charger.
+  9. If the garage door has been open for 10 minutes, send an alert.
+  10. If an unusual power spike lasts more than 2 hours, send an alert.
+
+
+--------------------------------------------------------------------------------
+11. PLATFORMS, PROTOCOLS AND INTEROPERABILITY
+--------------------------------------------------------------------------------
+  - Matter is a common standard intended to let devices from different
+    brands work together across major ecosystems.
+  - Thread, Zigbee and Z-Wave are low-power mesh protocols used by sensors
+    and switches. Wi-Fi is common for higher-bandwidth devices and is more
+    power hungry.
+  - Local control (automations that run on a hub in your home) keeps
+    working if the internet fails and is generally faster and more private
+    than cloud-only control.
+  - Check that your devices support the ecosystem you chose and that the
+    manufacturer provides long-term updates.
+  - Avoid mixing many separate apps. Use one primary platform for
+    automations so rules do not conflict.
+
+
+--------------------------------------------------------------------------------
+12. SECURITY, PRIVACY AND RELIABILITY
+--------------------------------------------------------------------------------
+  - Use strong, unique passwords and two-factor authentication on accounts.
+  - Keep device firmware updated.
+  - Put smart devices on a separate guest or IoT network where possible.
+  - Review what data is collected and shared, and the vendor's retention
+    policy. Occupancy data can reveal when no one is home.
+  - Provide manual controls for every automated system. A light switch must
+    still work if the hub is down.
+  - Test the "internet down" scenario by unplugging the router briefly.
+
+
+--------------------------------------------------------------------------------
+13. ESTIMATED SAVINGS AND PAYBACK (TYPICAL RANGES)
+--------------------------------------------------------------------------------
+  Measure                          Typical effect               Payback
+  -------------------------------  ---------------------------  --------------
+  LED lighting                     75% or more less lighting    Often under
+                                   energy                       2 years
+  Smart thermostat + scheduling    Up to about 8-10% of         Often 1 to 3
+                                   heating/cooling energy       years
+  Vacancy/occupancy sensors        Varies; large in rarely      1 to 4 years
+                                   used rooms
+  Smart plugs on standby loads     Small to moderate per        Varies
+                                   device, depends on load
+  Heat pump water heater           Large reduction vs electric  Varies with
+                                   resistance                   rates, incentives
+  Variable-speed pool pump         Often large vs single-speed  1 to 3 years
+  Whole-home monitoring            Indirect: reveals waste      Depends on
+                                                                actions taken
+
+Actual savings depend on baseline usage, rates and habits. Verify with
+before and after monitoring.
+
+
+--------------------------------------------------------------------------------
+14. COMMON PITFALLS
+--------------------------------------------------------------------------------
+  - Buying devices before measuring where energy goes
+  - Counting the energy cost of the smart devices themselves. Hubs, cameras,
+    and bulbs draw power continuously; typical small devices use a watt or
+    two, which adds up with dozens of devices.
+  - Too many conflicting schedules in different apps
+  - Automations that override occupants without an easy manual override
+  - Putting hubs and routers on plugs that get turned off
+  - Ignoring firmware support. Devices that stop receiving updates become
+    security and compatibility risks.
+  - Overusing aggressive thermostat setbacks with heat pumps
+  - Relying on cloud-only control for critical functions
+
+
+--------------------------------------------------------------------------------
+15. STARTER PLAN
+--------------------------------------------------------------------------------
+Week 1
+  [ ] Review utility data and note usage patterns
+  [ ] Swap remaining bulbs for LEDs
+  [ ] Install a monitored plug on the entertainment center or home office
+
+Month 1
+  [ ] Install or optimize a thermostat schedule
+  [ ] Add smart power strips for standby loads
+  [ ] Add vacancy sensors to low-traffic rooms
+  [ ] Set up delayed-start for dishwasher and laundry
+
+Quarter 1
+  [ ] Add whole-home monitoring if not available
+  [ ] Enroll in a demand response or time-of-use program if beneficial
+  [ ] Automate EV charging and water heating
+  [ ] Review results against your baseline and adjust
+
+Every six months
+  [ ] Review firmware updates, schedules and notifications
+  [ ] Remove automations that no longer fit your routine
+
+================================================================================
+END OF DOCUMENT
+================================================================================
