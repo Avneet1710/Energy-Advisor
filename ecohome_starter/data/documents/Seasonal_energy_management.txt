@@ -1,0 +1,287 @@
+================================================================================
+SEASONAL ENERGY MANAGEMENT
+Season-by-Season Actions to Reduce Energy Use and Costs
+================================================================================
+Category:  Energy Efficiency / Operations
+Audience:  Homeowners, renters, small-building managers
+Version:   October 2026
+
+NOTE: Recommendations are general. Climate, building type, equipment and local
+rates affect results. Seasons below follow the northern hemisphere; swap the
+months for the southern hemisphere. Work on heating equipment, gas appliances,
+roofs and electrical systems should be done by qualified professionals.
+
+
+--------------------------------------------------------------------------------
+1. PRINCIPLES OF SEASONAL ENERGY MANAGEMENT
+--------------------------------------------------------------------------------
+  - Energy use follows weather. Compare bills using heating and cooling
+    degree days, not just calendar months.
+  - Prepare before the season starts. Maintenance and weatherization done
+    ahead of time prevent expensive emergency repairs and high bills.
+  - Use free resources: sun, breezes and shade.
+  - Adjust habits as well as equipment. Many seasonal savings are free.
+  - Review what worked at the end of each season and record it for next year.
+
+
+--------------------------------------------------------------------------------
+2. QUICK REFERENCE SETPOINTS AND SETTINGS
+--------------------------------------------------------------------------------
+  Setting                          Winter                  Summer
+  -------------------------------  ----------------------  --------------------
+  Thermostat (home, awake)         about 68 F (20 C)       about 78 F (26 C)
+  Thermostat (asleep or away)      lower 7-10 F (4-6 C)    raise a few degrees
+  Water heater                     about 120 F (49 C)      about 120 F (49 C)
+  Ceiling fan direction            low speed, reversed     airflow downward
+                                   (pushes warm air down)  (cooling breeze)
+  Window coverings                 open on sunny days,     closed on sunny
+                                   closed at night         windows by day
+  Indoor humidity target           30-40% (avoid           40-50% (use
+                                   condensation)           dehumidification)
+
+Adjust for health needs, age, pets and comfort. Do not set temperatures that
+create health risks.
+
+
+--------------------------------------------------------------------------------
+3. WINTER
+--------------------------------------------------------------------------------
+3.1 Before winter (fall prep)
+  [ ] Service the heating system; check combustion safety and carbon monoxide
+      alarms
+  [ ] Replace the furnace filter and stock spares
+  [ ] Seal windows, doors, attic hatches and penetrations
+  [ ] Add weatherstripping and door sweeps
+  [ ] Check attic and crawl-space insulation
+  [ ] Clean gutters and check drainage to prevent ice damage
+  [ ] Drain and disconnect outdoor hoses; insulate exposed pipes
+  [ ] Reverse ceiling fans to low speed
+  [ ] Check fireplace damper and chimney
+  [ ] Test smart thermostat schedules and backup batteries
+
+3.2 During winter
+  - Open curtains on sunny south-facing windows during the day. Close them at
+    night to reduce heat loss.
+  - Use setbacks while asleep or away. For heat pumps, use gradual recovery
+    to avoid backup heating.
+  - Keep vents and radiators clear of furniture and drapes.
+  - Close fireplace dampers when not in use. An open damper acts like an open
+    window.
+  - Use bathroom and kitchen exhaust fans only as long as needed, because
+    they remove heated air.
+  - Lower water heater temperature if above 120 F and insulate exposed hot
+    water pipes.
+  - Wash clothes in cold or warm water; run full loads.
+  - Let the oven's residual heat warm the kitchen after cooking if safe.
+  - Check for ice dams, drafts and frost patterns, which can indicate leaks or
+    insulation problems.
+  - Use space heaters only for brief spot heating, following safety rules.
+    Electric resistance heaters are expensive to run for whole-home heating.
+
+3.3 Cold snaps and extreme weather
+  - Reduce nonessential loads during peak demand periods.
+  - Open cabinet doors under sinks on exterior walls during extreme cold to
+    protect pipes, and let faucets drip when freezing is expected.
+  - Keep a minimum safe indoor temperature when away to prevent pipe damage.
+  - Know where your water shutoff is.
+  - Have a plan for outages, such as backup heat, blankets, and charged
+    devices. Never use generators, grills or camp stoves indoors.
+
+
+--------------------------------------------------------------------------------
+4. SPRING
+--------------------------------------------------------------------------------
+Spring is a shoulder season with mild weather. Heating and cooling can often
+be off for weeks.
+
+  [ ] Switch off or reduce heating; use natural ventilation on mild days
+  [ ] Schedule air conditioner or heat pump maintenance before cooling season
+  [ ] Clean or replace filters; clean indoor and outdoor coils
+  [ ] Check outdoor unit clearance; remove debris and winter covers properly
+  [ ] Inspect ducts, vents and condensate drain
+  [ ] Reverse ceiling fans for summer direction
+  [ ] Inspect roof, attic ventilation and insulation after winter
+  [ ] Clean refrigerator coils and check door seals
+  [ ] Clean dryer vent and lint trap
+  [ ] Open windows overnight to cool the home when outdoor temperatures drop,
+      and close them in the morning if the day will be hot
+  [ ] Install or adjust exterior shading, awnings and window films
+  [ ] Check weatherstripping and caulking before summer heat
+  [ ] Review your last winter's usage and set savings goals for the year
+  [ ] Test smart thermostat and update schedules for longer daylight
+
+Spring is also a good time to inspect for moisture and mold, since
+temperature swings and rain affect humidity.
+
+
+--------------------------------------------------------------------------------
+5. SUMMER
+--------------------------------------------------------------------------------
+5.1 Reduce cooling load
+  - Close blinds, curtains or shades on sunny windows during the day.
+    Exterior shading is more effective than interior coverings.
+  - Run ceiling fans when you are in the room. Turn them off when you leave.
+  - Avoid using the oven during the hottest hours. Use the microwave, slow
+    cooker, air fryer, or outdoor grill (safely away from the building).
+  - Run dishwashers and washers in the evening or at night, and air-dry when
+    practical.
+  - Run the dryer less during peak hours, or use a clothesline.
+  - Replace incandescent bulbs, which give off heat, with LEDs.
+  - Close doors to unused rooms in zoned or room-based cooling.
+  - Reduce the heat from electronics by turning off equipment you are not
+    using.
+
+5.2 Run the air conditioner efficiently
+  - Set the thermostat as high as comfortable, such as 78 F (26 C) when home.
+    Each degree higher saves energy. Avoid dropping the setpoint far below
+    the target to "cool faster."
+  - Raise the setpoint when no one is home, but avoid extreme settings in
+    humid climates.
+  - Keep filters clean and supply vents unblocked.
+  - Keep the outdoor unit shaded if possible, but do not block airflow.
+  - Use pre-cooling in the morning or before peak-rate hours on time-of-use
+    plans.
+  - Consider "night flushing" in dry or mild-night climates: open windows
+    overnight and close them in the morning.
+
+5.3 Hot water and other loads
+  - Take shorter showers and fix leaking taps.
+  - Run pool pumps for the minimum hours needed, ideally off-peak.
+  - Turn off dehumidifiers when not needed, and use the humidity control
+    on smart models.
+
+5.4 Heat waves
+  - Pre-cool the home early, then reduce load during the peak afternoon.
+  - Use fans and cooling spaces in the home. Check on vulnerable people.
+  - Avoid heat-generating tasks during the hottest hours.
+  - Follow utility alerts and local guidance on conservation or cooling
+    centers.
+
+
+--------------------------------------------------------------------------------
+6. FALL (AUTUMN)
+--------------------------------------------------------------------------------
+Fall is the best time to prepare for winter and to take advantage of mild
+weather.
+
+  [ ] Turn off cooling and use fresh air on mild days
+  [ ] Schedule heating system tune-up before the first cold weeks
+  [ ] Replace filters; stock spares for winter
+  [ ] Seal drafts, replace weatherstripping, and add door sweeps
+  [ ] Remove window air conditioners or cover and seal them
+  [ ] Cover or protect outdoor air conditioner units if the manufacturer
+      recommends it
+  [ ] Clean gutters; drain and store hoses; protect outdoor faucets
+  [ ] Check smoke and carbon monoxide detectors
+  [ ] Reverse ceiling fans to the winter setting (low speed)
+  [ ] Open curtains on south-facing windows by day; add insulating curtains
+      for night
+  [ ] Check attic insulation and ventilation, and add more if needed
+  [ ] Schedule chimney inspection if you use a fireplace or wood stove
+  [ ] Update smart thermostat schedule for shorter days
+  [ ] Consider an energy audit while contractor schedules are open
+
+
+--------------------------------------------------------------------------------
+7. HOLIDAYS, TRAVEL AND OCCASIONAL USE
+--------------------------------------------------------------------------------
+Holiday lighting and decorations
+  - Use LED holiday lights, which use far less energy than incandescent
+    strings.
+  - Put lights on timers or smart plugs so they run only when useful.
+
+Hosting
+  - Extra guests and cooking raise indoor temperatures. Reduce heating before
+    guests arrive, and open the oven door safely only when cooking is done.
+  - Avoid heating unused rooms.
+
+Vacation and extended absences
+  - Set the thermostat to a protective setpoint (not off) in extreme weather.
+  - Turn the water heater to vacation mode or lower the temperature, and
+    turn off the water supply if leaving for a long time.
+  - Unplug nonessential electronics or use smart power strips.
+  - Empty and prop open a secondary refrigerator, or turn it off if it will be
+    unused.
+  - Use timers sparingly for security. LED lights on timers cost little.
+  - Ask someone to check the home during extreme weather.
+
+
+--------------------------------------------------------------------------------
+8. REGIONAL VARIATIONS
+--------------------------------------------------------------------------------
+  Hot-humid climates
+    - Focus on moisture control and efficient cooling. Avoid over-cooling.
+      Use variable-speed AC, dehumidification and bath/kitchen exhaust.
+    - Seal air leaks to keep out humid air.
+
+  Hot-dry climates
+    - Shade and reflective roofs reduce cooling load. Night ventilation
+      works well. Evaporative coolers can use much less energy than
+      compressor-based cooling, but they add moisture and require water.
+
+  Cold climates
+    - Priorities are air sealing, insulation and efficient heating. Consider
+      cold-climate heat pumps. Protect pipes and monitor ice dams.
+
+  Mixed climates
+    - Focus on both heating and cooling load, and use shoulder seasons to
+      shut off HVAC and ventilate naturally.
+
+  Marine or mild climates
+    - Heating may be modest; high-efficiency heat pumps provide year-round
+      comfort. Manage moisture and ventilation.
+
+
+--------------------------------------------------------------------------------
+9. YEAR-ROUND CALENDAR
+--------------------------------------------------------------------------------
+  Month           Key actions
+  --------------  -------------------------------------------------------------
+  January         Review holiday energy bills; check for drafts and ice dams
+  February        Book spring HVAC service; plan efficiency projects
+  March           Switch fan direction; service cooling system
+  April           Clean coils and vents; check shading; ventilate naturally
+  May             Set summer thermostat schedule; add window shading
+  June            Check filters monthly; set pool pump schedule
+  July            Monitor peak-hour use; pre-cool; avoid oven use
+  August          Review cooling bill vs weather; fix issues found
+  September       Book heating tune-up; begin weatherizing
+  October         Seal drafts; replace filters; reverse fans; clean gutters
+  November        Test heating; set winter schedule; insulate pipes
+  December        Use LED lights and timers; check holiday and guest loads
+
+Adjust to your local climate and the start of your heating and cooling
+seasons.
+
+
+--------------------------------------------------------------------------------
+10. TRACKING AND IMPROVING
+--------------------------------------------------------------------------------
+  - Record monthly electricity and fuel use alongside average temperature.
+  - Compare year-over-year using degree days. A mild winter will hide savings;
+    a harsh one will hide improvements.
+  - Note which actions were taken each season and the results.
+  - Set simple goals, such as lowering winter heating use by 10 percent
+    compared with the weather-adjusted baseline.
+  - Use utility tools, smart thermostats and home energy monitors to see
+    patterns.
+  - Revisit the plan each quarter.
+
+
+--------------------------------------------------------------------------------
+11. COMMON SEASONAL MISTAKES
+--------------------------------------------------------------------------------
+  - Waiting for the first extreme weather day to service equipment
+  - Leaving ceiling fans in the wrong direction or running in empty rooms
+  - Closing too many vents, which can increase duct leakage and strain
+    the system
+  - Setting the thermostat extremely high or low to speed up heating or cooling
+  - Turning the heating system completely off in freezing weather while away
+  - Forgetting to remove window air conditioners or seal gaps
+  - Leaving outdoor hoses connected in freezing weather
+  - Ignoring humidity, which can cause mold in summer and condensation in
+    winter
+
+================================================================================
+END OF DOCUMENT
+================================================================================
