@@ -1,0 +1,370 @@
+================================================================================
+RENEWABLE ENERGY INTEGRATION
+Planning, Sizing and Operating On-Site Renewable Energy Systems
+================================================================================
+Category:  Renewable Energy / Energy Efficiency
+Audience:  Homeowners, small businesses, facility managers
+Version:   October 2026
+
+NOTE: Costs, incentives, interconnection rules and net metering policies vary
+widely by country, state and utility, and they change frequently. Verify
+current programs with your utility, local government and a licensed installer
+before making a decision. Electrical and structural work must be done by
+qualified, licensed professionals.
+
+
+--------------------------------------------------------------------------------
+1. OVERVIEW AND STRATEGY
+--------------------------------------------------------------------------------
+Renewable energy works best as the last step in an efficiency-first plan:
+
+  1. Reduce consumption (insulation, efficient HVAC, LED lighting, controls)
+  2. Electrify strategically (heat pumps, heat pump water heaters, EVs)
+  3. Generate on site (solar PV is the most common option)
+  4. Store and shift (batteries, thermal storage, smart controls)
+  5. Procure clean energy for what remains (community solar, green tariffs)
+
+Reducing the load first means a smaller, cheaper renewable system is needed,
+and avoids paying to generate energy that would have been wasted.
+
+
+--------------------------------------------------------------------------------
+2. OPTIONS AT A GLANCE
+--------------------------------------------------------------------------------
+  Technology               Best suited for                  Key considerations
+  -----------------------  -------------------------------  ---------------------
+  Rooftop solar PV         Most homes and businesses with   Roof orientation,
+                           sun exposure                     shading, structure
+  Ground-mount solar PV    Properties with open land        Space, trenching,
+                                                            permits
+  Solar water heating      Homes with steady hot water use  Freeze protection,
+                           and good sun                     maintenance
+  Ground-source heat pump  New builds, major retrofits      High upfront cost,
+                                                            drilling or loops
+  Small wind               Rural sites with strong, steady  Site wind speed,
+                           wind and tall towers             tower height, zoning
+  Community solar          Renters, shaded roofs            Program availability,
+                                                            subscription terms
+  Green tariffs / PPAs     Customers who cannot install     Contract terms, source
+                           on site                          verification
+
+Solar PV is the most widely applicable. Small wind rarely performs well in
+typical residential sites because turbulence near buildings and trees reduces
+output, so confirm the local wind resource before buying.
+
+
+--------------------------------------------------------------------------------
+3. SITE ASSESSMENT
+--------------------------------------------------------------------------------
+3.1 Solar resource
+  - In the northern hemisphere, south-facing roofs usually produce the most
+    energy over a year. East and west faces produce somewhat less in total
+    but can better match morning and late afternoon demand.
+  - Optimal tilt is often close to the site's latitude, but moderate
+    differences have a small effect on annual output.
+  - Shade from trees, chimneys, vents and neighboring buildings can reduce
+    output sharply. Even partial shade on one panel can affect a whole string
+    unless the system uses module-level electronics.
+
+3.2 Roof and structure
+  - Roof condition: if the roof will need replacement within about 10 years,
+    consider replacing it before installing solar.
+  - Confirm structural capacity and roofing material with the installer.
+  - Check fire-code setbacks, access pathways and local rules for roof
+    layouts.
+
+3.3 Electrical service
+  - Check main panel capacity, breaker space and busbar rating. Backfeeding
+    solar power into a panel is limited by code, and a panel upgrade may be
+    needed.
+  - Identify where the inverter, disconnects and meters will be located.
+
+3.4 Regulatory and community factors
+  - Permits, inspections and utility interconnection approvals are normally
+    required.
+  - Homeowner associations (HOAs) and local ordinances may regulate placement
+    or appearance; many jurisdictions limit how far an HOA can restrict solar.
+  - Renters and condominium owners can look at community solar or shared
+    systems.
+
+
+--------------------------------------------------------------------------------
+4. SIZING A SOLAR PV SYSTEM
+--------------------------------------------------------------------------------
+4.1 Method
+  1. Find annual electricity use in kWh from 12 months of bills.
+  2. Look up the local average peak sun hours per day (a measure of solar
+     resource; many locations fall between 3.5 and 6).
+  3. Apply a system derate factor of about 0.75 to 0.85 to account for
+     inverter losses, wiring, temperature, soiling and shading.
+  4. Calculate system size:
+
+       System size (kW) = Annual use (kWh) / (Peak sun hours x 365 x Derate)
+
+4.2 Worked example
+  Annual use:        9,000 kWh
+  Peak sun hours:    4.5 per day
+  Derate factor:     0.80
+
+  System size = 9,000 / (4.5 x 365 x 0.80) = 9,000 / 1,314 = about 6.8 kW
+
+  This would cover roughly 100 percent of annual use on paper. Real output
+  varies by year and by month.
+
+4.3 Sizing considerations
+  - Planned electrification (EV, heat pump) raises future use. Size for
+    expected use, not only the past, if you are certain of the changes.
+  - Some utilities limit system size to a percentage of past usage or cap
+    exports. Check local rules.
+  - Over-sizing is not always better. If excess generation is credited at a
+    low export rate, a smaller system with higher self-consumption may have
+    better economics.
+  - Output degrades slowly. A common planning figure is about 0.5 percent
+    per year.
+
+
+--------------------------------------------------------------------------------
+5. SYSTEM COMPONENTS
+--------------------------------------------------------------------------------
+  Solar modules
+    - Compare efficiency, temperature coefficient, warranty (often 25 years
+      for product and performance), and manufacturer reputation.
+
+  Inverters
+    - String inverter: lowest cost, one conversion point; works best with
+      uniform, unshaded arrays.
+    - Microinverters: one per panel; better for shaded or complex roofs and
+      provide module-level monitoring.
+    - String inverter with power optimizers: module-level control with a
+      central inverter.
+    - Hybrid inverter: manages solar and battery together.
+    - Inverters usually need replacement once during the life of the array,
+      often after 10 to 15 years, unless a long warranty applies.
+
+  Racking and mounting
+    - Must match the roof type and wind and snow loads. Flashing and
+      penetrations should be done by experienced roofers or installers.
+
+  Monitoring
+    - Panel-level or system-level monitoring shows production and flags
+      failures. Make sure you can access data without a service fee, or know
+      the fee in advance.
+
+  Safety equipment
+    - Rapid shutdown devices, disconnects and labeling required by code.
+
+
+--------------------------------------------------------------------------------
+6. GRID INTERACTION AND BILLING
+--------------------------------------------------------------------------------
+Compensation rules strongly affect system design.
+
+  Net metering
+    - Exported energy earns credits, often at or near the retail rate, which
+      offset later consumption. Rules about credit rollover and fees vary.
+
+  Net billing / export rates
+    - Exports are credited at a lower rate (often related to wholesale or
+      avoided cost), so using solar on site is worth more than exporting.
+
+  Time-of-use (TOU) plans
+    - Value depends on when you generate and consume. Solar produces most at
+      midday, while TOU peaks often occur in late afternoon and evening.
+
+  Fixed charges and demand charges
+    - These reduce the savings achievable from solar alone, especially for
+      commercial customers.
+
+  Interconnection
+    - Application, utility review, inspection and permission to operate are
+      required before switching the system on. Do not energize without
+      permission.
+
+Questions to ask the utility
+  - What are the export compensation rules, and how long are they guaranteed?
+  - Are there size limits or fees?
+  - How long is the interconnection process?
+  - Does the rate plan change if I add solar, EVs or storage?
+
+
+--------------------------------------------------------------------------------
+7. MATCHING DEMAND TO GENERATION (SELF-CONSUMPTION)
+--------------------------------------------------------------------------------
+Using solar power directly is usually more valuable than exporting it.
+
+  Self-consumption rate = solar energy used on site / solar energy produced
+  Self-sufficiency      = share of total consumption met by solar (and
+                          storage)
+
+Ways to increase self-consumption
+  - Shift flexible loads to midday: dishwasher, laundry, pool pump, water
+    heating, EV charging, battery charging.
+  - Pre-cool or pre-heat the home using solar surplus, within comfort limits.
+  - Use a heat pump water heater as a thermal battery by scheduling heating
+    during peak solar output.
+  - Install a battery to move surplus daytime output to the evening (see the
+    energy storage guide).
+  - Use smart controllers or solar diverters to send surplus energy to water
+    heating when exports are low-value.
+  - Use home automation to start loads when production exceeds a threshold.
+
+
+--------------------------------------------------------------------------------
+8. OTHER RENEWABLE AND LOW-CARBON OPTIONS
+--------------------------------------------------------------------------------
+8.1 Solar water heating
+  - Collectors heat water or a heat-transfer fluid that preheats domestic
+    hot water. Works best with steady hot water use. Needs freeze protection
+    in cold climates. In many areas, a heat pump water heater plus solar PV
+    offers similar benefits with simpler equipment.
+
+8.2 Ground-source heat pumps
+  - Use stable ground temperatures for efficient heating and cooling. Good
+    for new construction or when existing ducts, land and budget allow.
+
+8.3 Small wind
+  - Requires a strong wind resource and tall towers clear of obstructions.
+    Obtain site wind data and local permits before investing.
+
+8.4 Community solar, green tariffs and power purchase agreements
+  - These options provide renewable energy without rooftop equipment.
+  - Check contract term, pricing structure, cancellation fees, and whether
+    renewable energy certificates are included and verified.
+
+8.5 Biomass and micro-hydro
+  - Specialized options for suitable sites. Consider emissions, fuel supply
+    and permitting.
+
+
+--------------------------------------------------------------------------------
+9. ELECTRIFICATION SYNERGIES
+--------------------------------------------------------------------------------
+  - Heat pumps for space and water heating convert electricity to heat
+    efficiently, so renewable electricity can displace fossil fuels directly.
+  - Electric vehicles can charge from midday solar. Smart chargers can
+    follow solar production or off-peak rates.
+  - Induction cooktops are efficient and can be powered by solar.
+  - Plan electrical capacity (panel size, circuits) for planned electrification
+    before choosing system size and equipment.
+
+
+--------------------------------------------------------------------------------
+10. COMMERCIAL AND INSTITUTIONAL CONSIDERATIONS
+--------------------------------------------------------------------------------
+  - Rooftop and carport solar can reduce energy charges and, with
+    storage or load control, demand charges.
+  - Analyze 15-minute or hourly interval data to size systems and understand
+    peak demand.
+  - Financing options include purchase, loan, lease and power purchase
+    agreement (PPA). Compare ownership benefits, risk, and incentives.
+  - Microgrids with storage and controls can provide resilience for critical
+    facilities.
+  - Coordinate with energy efficiency, since reducing HVAC and lighting load
+    shrinks the required solar size.
+  - Check roof warranty and structural requirements, and coordinate roof
+    replacement timing.
+
+
+--------------------------------------------------------------------------------
+11. FINANCIAL EVALUATION
+--------------------------------------------------------------------------------
+  Simple payback = Net system cost / Annual savings
+
+  Better measures
+    - Lifetime savings and net present value
+    - Levelized cost of energy (cost per kWh over the system's life) compared
+      with utility rates, which tend to rise over time but not predictably
+
+Include
+  - Equipment, installation, permits, electrical upgrades, roof work
+  - Incentives: tax credits, rebates, performance payments, and
+    local programs. Programs change, so verify eligibility, deadlines and
+    required paperwork before relying on them.
+  - Financing costs and fees
+  - Inverter replacement and insurance
+  - Degradation of about 0.5 percent per year
+  - Changes in electricity rates and net metering rules
+  - Impact on property value and resale (check ownership, leases and PPAs
+    that can complicate a home sale)
+
+Get at least three quotes, and compare equipment, warranties, production
+estimates, and installer licensing and references, not only price.
+
+
+--------------------------------------------------------------------------------
+12. INSTALLATION AND COMMISSIONING CHECKLIST
+--------------------------------------------------------------------------------
+  [ ] Contract lists equipment models, system size, production estimate,
+      timeline and warranty terms
+  [ ] Permits obtained; utility interconnection application filed
+  [ ] Roof penetrations flashed and sealed; roofer warranty confirmed
+  [ ] Inspection passed; permission to operate received
+  [ ] Monitoring set up and verified
+  [ ] Production compared with the estimate over the first months
+  [ ] As-built drawings, manuals, warranty documents and shutdown
+      instructions stored
+  [ ] Labels and shutdown procedures understood by the owner
+
+
+--------------------------------------------------------------------------------
+13. OPERATIONS AND MAINTENANCE
+--------------------------------------------------------------------------------
+  - Check monitoring monthly. Compare output with similar weeks in the past
+    and with the expected curve.
+  - Clean panels only if soiling is significant, such as heavy dust, pollen or
+    bird droppings. Follow the manufacturer's guidance and avoid
+    unsafe roof access. In many climates, rain is enough.
+  - Trim vegetation that starts to shade the array.
+  - Inspect visible wiring, mounts and roof flashing periodically.
+  - Clear snow only if it is safe to do so.
+  - Investigate sudden production drops: inverter fault, tripped breaker,
+    module failure, new shading or monitoring outage.
+  - Keep the inverter's ventilation area clear.
+
+Performance ratio (actual output compared with expected output for measured
+sunlight) is a useful health indicator. Persistent decline of more than a
+few percent warrants an inspection.
+
+
+--------------------------------------------------------------------------------
+14. SAFETY AND RESILIENCE
+--------------------------------------------------------------------------------
+  - Standard grid-tied solar systems shut down during a grid outage for
+    safety. Backup power requires a battery or generator system designed for
+    islanding.
+  - Rapid shutdown, labeling and access pathways support firefighter safety.
+  - Do not work on DC wiring; panels produce voltage whenever there is light.
+  - Use licensed installers and obtain inspections.
+  - Keep documentation accessible to emergency responders where required.
+
+
+--------------------------------------------------------------------------------
+15. PLANNING TIMELINE (TYPICAL)
+--------------------------------------------------------------------------------
+  Weeks 1-2    Collect bills; get an energy audit; fix cheap efficiency issues
+  Weeks 2-4    Request multiple quotes; check roof and panel
+  Weeks 4-6    Choose installer; sign contract; finalize equipment
+  Weeks 6-12   Permits and utility application
+  Weeks 12-16  Installation, inspection, permission to operate
+  Month 4+     Verify production; adjust loads and rates
+
+Timelines vary by region and utility. Start well before an incentive deadline
+if one applies.
+
+
+--------------------------------------------------------------------------------
+16. COMMON MISTAKES
+--------------------------------------------------------------------------------
+  - Installing solar before addressing high-impact efficiency upgrades
+  - Ignoring shading or using optimistic production estimates
+  - Sizing based on rules of thumb without checking export rates
+  - Skipping a roof assessment
+  - Signing long contracts or leases without understanding escalators, transfer
+    terms and fees
+  - Assuming incentives or net metering rules will not change
+  - Forgetting that a grid-tied system will not power the home in an outage
+  - Not monitoring the system after installation
+
+================================================================================
+END OF DOCUMENT
+================================================================================
